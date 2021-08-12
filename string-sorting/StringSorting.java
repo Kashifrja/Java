@@ -12,6 +12,7 @@ public class StringSorting
         arraylist.add("Kartik");
         arraylist.add("Amir");
         arraylist.add("Zahid");
+        arraylist.add("Rambo");
        
         /*Unsorted List: ArrayList content before sorting*/
         System.out.println("Before Sorting:");
